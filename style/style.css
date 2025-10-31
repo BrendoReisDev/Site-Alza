@@ -370,7 +370,8 @@ footer .h2-footer-03 {
         min-height: 35vh;
         height: auto;
         overflow: hidden;
-    }
+        width: 100%;
+}
 
     .container-banner .imagem-fundo img {
         width: 100%;
