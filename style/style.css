@@ -27,6 +27,7 @@ body::before {
     background: url('../assets/estatica-efeito.webp');
     opacity: 0.09;
     z-index: 9999;
+      overflow-x: hidden;
 }
 
 
